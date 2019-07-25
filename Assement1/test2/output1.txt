@@ -1,0 +1,36 @@
+Student Id: 1, name: B
+Total Average:	62.15%
+
+	Course: Math, Teacher:  Mrs. C
+	Final Grade:	74.20%
+
+	Course: Biology, Teacher: Mr. D
+	Final Grade:	50.10%
+
+
+Student Id: 37, name: A
+Total Average:	72.03%
+
+	Course: Math, Teacher:  Mrs. C
+	Final Grade:	74.20%
+
+	Course: Biology, Teacher: Mr. D
+	Final Grade:	90.10%
+
+	Course: History, Teacher:  Mrs. P
+	Final Grade:	51.80%
+
+
+Student Id: 20002, name: C
+Total Average:	72.03%
+
+	Course: Math, Teacher:  Mrs. C
+	Final Grade:	74.20%
+
+	Course: Biology, Teacher: Mr. D
+	Final Grade:	90.10%
+
+	Course: History, Teacher:  Mrs. P
+	Final Grade:	51.80%
+
+
